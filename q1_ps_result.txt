@@ -1,0 +1,5 @@
+dm2q:/ $ ps
+USER           PID  PPID     VSZ    RSS WCHAN            ADDR S NAME                       
+shell        27591 27465 2171416   2676 __do_sys_+          0 S sh
+shell        27598 27591 2196784   4172 0                   0 R ps
+dm2q:/ $

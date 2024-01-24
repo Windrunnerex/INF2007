@@ -1,0 +1,9 @@
+Tasks: 861 total,   1 running, 860 sleeping,   0 stopped,   0 zombie
+  Mem:  7249396K total,  7107372K used,   142024K free,     7916K buffers
+ Swap:  8388604K total,  3178468K used,  5210136K free,  1956020K cached
+800%cpu  38%user   1%nice  53%sys 448%idle   1%iow   8%irq   1%sirq 250%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+24940 u0_a404      10 -10  25G 287M 184M S 14.0   4.0   0:22.05 com.Project100Pi.themusicplayer <-- this 2
+28116 u0_i9477     10 -10 224G 138M  94M S  7.6   1.9   0:07.29 <--this 2
+29401 shell        20   0 2.0G 5.1M 3.4M R  2.3   0.0   0:00.54 top -m 10
+ 
