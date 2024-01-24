@@ -42,5 +42,5 @@ jobs:
       - name: Slack Notification
         uses: craftech-io/slack-action@v1
         with:
-          slack_webhook_url: "https://hooks.slack.com/services/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"
+          slack_webhook_url: "https://hooks.slack.com/services/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"
         if: always()
