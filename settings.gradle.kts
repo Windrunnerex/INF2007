@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Hello INF2007"
+rootProject.name = "INF2007"
 include(":app")
